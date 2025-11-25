@@ -62,21 +62,6 @@ I'm currently exploring the **MERN** stack and **Flutter**, and actively working
 
 
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reddevil212&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddevil212&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reddevil212&theme=radical&no-frame=true&row=1&column=6">
-</p>
-
-
----
 
 
 
