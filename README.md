@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)
 # 👋 Hi, I'm Sayan Pal!
 
-<img src="https://raw.githubusercontent.com/reddevil212/reddevil212/refs/heads/main/CROPED_AVATAR-removebg-preview.png" align="right" width="100">
+
 <img src="https://img.shields.io/badge/BCA-blue?style=flat-square" alt="BCA">
 
 📍 **Bengal College of Engineering and Technology, Durgapur (2024–2028)**  
